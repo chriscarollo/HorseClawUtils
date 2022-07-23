@@ -34,7 +34,7 @@ url_stat_translations = 'https://raw.githubusercontent.com/brather1ng/RePoE/mast
 url_tags = 'https://raw.githubusercontent.com/brather1ng/RePoE/master/RePoE/data/tags.min.json' 
 url_stats = 'https://raw.githubusercontent.com/brather1ng/RePoE/master/RePoE/data/tags.min.json' 
  
- 
+    
 # ---------------------------------------------------------
 
 def fetch_repoe_data( url ):
