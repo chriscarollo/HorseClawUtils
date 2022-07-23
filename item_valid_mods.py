@@ -2,7 +2,6 @@
 import requests
 from requests.exceptions import HTTPError
 
-
 test_item_1 = 'Item Class: Rings \
 Rarity: Rare \
 Spirit Coil \
